@@ -1,0 +1,11 @@
+{
+  "name": "LoadBalancer",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cli-color": "^2.0.0",
+    "clui": "^0.3.6",
+    "express": "^4.17.1",
+    "range-inclusive": "^1.0.2"
+  }
+}
